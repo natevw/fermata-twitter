@@ -1,0 +1,28 @@
+{
+  "name": "fermata-twitter",
+  "version": "0.10.5",
+  "description": "Twitter plugin for Fermata",
+  "main": "fermata-twitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/natevw/fermata-twitter.git"
+  },
+  "keywords": [
+    "twitter",
+    "rest",
+    "api",
+    "fermata"
+  ],
+  "author": "Nathan Vander Wilt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/natevw/fermata-twitter/issues"
+  },
+  "homepage": "https://github.com/natevw/fermata-twitter",
+  "peerDependencies": {
+    "fermata": "git://github.com/natevw/fermata.git#upcoming"
+  }
+}
