@@ -1,6 +1,6 @@
 {
   "name": "fermata-twitter",
-  "version": "0.10.5",
+  "version": "0.10.6",
   "description": "Twitter plugin for Fermata",
   "main": "fermata-twitter.js",
   "scripts": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/natevw/fermata-twitter",
   "peerDependencies": {
-    "fermata": "git://github.com/natevw/fermata.git#upcoming"
+    "fermata": "^0.11.0-alpha3b"
   }
 }
